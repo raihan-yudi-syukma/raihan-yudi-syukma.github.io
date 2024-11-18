@@ -167,7 +167,7 @@
 				<ul class="navbar-nav">
 					<li class="nav-item">
 						<span>
-							_RAINHARDER
+							RAINHARDER
 						</span>
 					</li> 
 				</ul>
@@ -185,7 +185,7 @@
 
 					<!-- articles -->
 					<li class="nav-item">
-						<a class="nav-link" href="articles.php">
+						<a class="nav-link" href="#">
 							<i class="fas fa-book"></i>
 							Articles
 						</a>
@@ -193,7 +193,7 @@
 
 					<!-- contact -->
 					<li class="nav-item">
-						<a class="nav-link" href="contact.php">
+						<a class="nav-link" href="#">
 							<i class="fas fa-message"></i>
 							Contact
 						</a>
@@ -251,7 +251,7 @@
 				</h3>
 				<h6 style="color:rgb(200, 200, 200)">Fullstack Web Developer</h6>
 				<p style="text-align: justify;">
-					Hello, my name is Raihan Yudi Syukma! Im not really call myself a professional fullstack web developer, but I have created a bunch of projects using PHP frameworks like CodeIgniter and Laravel.
+					Hello, my name is Raihan Yudi Syukma! Im an intermediate fullstack web developer, I have created a bunch of projects using back-end frameworks like CodeIgniter and Laravel.
 				</p>
 			</div>
       <!-- /.text -->
@@ -267,10 +267,9 @@
 			<div class="row">
 				<!-- paragraph -->
 				<div class="col-sm-4">
-					<img class="mx-auto d-block mb-2" style="max-height: 200px; max-width: 200px" src="assets/images/raihan.jpg" alt="">
-					<h4>A Student</h4>
+					<img class="mx-auto d-block mb-2" style="max-height: 200px; max-width: 200px" src="assets/images/logo.webp" alt="">
 					<p style="text-align: justify;">
-						Im a student of Institut Az Zuhra college at Pekanbaru, Indonesia. Im enrolled in Informathics Management study program. Im passionate in web, that's why Im focusing in fullstack web development. I have made some website projects, using frameworks like CodeIgniter and Laravel.
+						Im a fresh graduate from Institut Az Zuhra college at Pekanbaru, Indonesia. Im enrolled in Informathics Management study program. Im passionate in web, that's why Im focusing in fullstack web development.
 					</p>
 				</div>
 				<!-- personal information -->
